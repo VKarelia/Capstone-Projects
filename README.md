@@ -4,7 +4,7 @@
 
 1. __IBM Data Science Professional Certificate__
             
-        Segmenting and Clustering Neighborhoods in Toronto
+[Segmenting and Clustering Neighborhoods in Toronto](https://github.com/VKarelia/Capstone-Projects/tree/main/IBM%20Data%20Science%20Professional%20Certificate/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto)
         
 [Link to report](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/109f3d8d-7c68-46e5-8c53-2b68cbd95929/view?access_token=a5c63daf1528f0e99538da0b07cc2a1fe143ad097181f4e8d39a873506b5b829)
         
