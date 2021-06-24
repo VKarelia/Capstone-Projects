@@ -1,4 +1,4 @@
-# Capstone-Projects
+# Projects and Case Studies
 
 ### This repository contains all the capstone projects and case studies performed in below listed courses:
 
