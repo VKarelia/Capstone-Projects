@@ -4,6 +4,12 @@
 
 1. __PGP in Data Science and Busniess Analytics - Great Lakes Institute of Management__
 
+[Project 4 - Data Mining](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%204%20-%20Data%20Mining)
+
+[Link to report](https://github.com/VKarelia/Projects_and_CaseStudies/blob/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%204%20-%20Data%20Mining/Business%20Report.pdf)
+
+
+
 [Tokyo 2020 Medals Prediction](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Tokyo%202020%20Medals%20Predictions)
 
 [Link to report]
