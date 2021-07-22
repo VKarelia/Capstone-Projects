@@ -2,7 +2,11 @@
 
 ### This repository contains all the capstone projects and case studies performed in below listed courses:
 
-1. __IBM Data Science Professional Certificate__
+1. __PGP in Data Science and Busniess Analytics - Great Lakes Institute of Management__
+
+
+
+2. __IBM Data Science Professional Certificate__
             
 [Segmenting and Clustering Neighborhoods in Toronto](https://github.com/VKarelia/Capstone-Projects/tree/main/IBM%20Data%20Science%20Professional%20Certificate/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto)
         
