@@ -4,6 +4,10 @@
 
 1. __PGP in Data Science and Busniess Analytics - Great Lakes Institute of Management__
 
+[Tokyo 2020 Medals Prediction](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Tokyo%202020%20Medals%20Predictions)
+
+[Link to report]
+
 
 
 2. __IBM Data Science Professional Certificate__
