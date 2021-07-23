@@ -8,12 +8,18 @@
 
 [Link to report](https://github.com/VKarelia/Projects_and_CaseStudies/blob/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%204%20-%20Data%20Mining/Business%20Report.pdf)
 
+_Problem 1: Clustering_
+A leading bank wants to develop a customer segmentation to give promotional offers to its customers.They collected a sample that summarizes the activities of users during the past few months. You aregiven the task to identify the segments based on credit card usage
 
+_Problem 2: CART-RF-ANN_
+An Insurance firm providing tour insurance is facing higher claim frequency. The management decidesto collect data from the past few years. You are assigned the task to make a model which predicts theclaim status and provide recommendations to management. Use CART, RF & ANN and compare themodels' performances in train and test sets.
 
 [Tokyo 2020 Medals Prediction](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Tokyo%202020%20Medals%20Predictions)
 
-[Link to report]
+[Link to report](https://medium.com/@kareliavaishnavi/tokyo-2021-olympics-medals-predictions-aceae04704f0)
 
+
+This case study is mainly focused on predicting the medals for Tokyo 2021 Olympics based on the factors affecting the country's performance in the Olympics. It can be argued that the country’s outcome in the Olympic games depends upon economic, demographic, and socio-economic factors such as GDP per capita, Population, Human Development Index(HDI), past performance of the country i.e. medals won in past Olympic games and whether the country hosting an Olympics event?
 
 
 2. __IBM Data Science Professional Certificate__
