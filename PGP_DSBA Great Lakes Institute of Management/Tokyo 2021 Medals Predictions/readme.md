@@ -1,4 +1,4 @@
-## Tokyo 2020 Medals Prediction 
+## Tokyo 2021 Medals Prediction 
 
 **Skills and Tools**
 
