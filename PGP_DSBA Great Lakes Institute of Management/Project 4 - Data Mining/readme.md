@@ -1,4 +1,10 @@
 ## Project 4 - Data Mining
+
+**Skills and Tools**
+
+Clustering, CART, Random Forest, Artificial Neural Networks
+
+---
 ### Problem 1: Clustering
 
 
