@@ -1,5 +1,11 @@
 # Project 3: Statistical Methods for Decision Making
 
+**Skills and Tools**
+
+Descriptive Statistics, Probability & Probability Distributions, Estimation, Hypothesis Testing
+
+---
+
 ### Descriptive Statistics - Wholesale Customers Analysis
 
 A wholesale distributor operating in different regions of Portugal has information on annual spending of several items in their stores across different regions and channels. The data consists of 440 large retailers’ annual spending on 6 different varieties of products in 3 different regions (Lisbon, Oporto, Other) and across different sales channel (Hotel, Retail).
@@ -23,4 +29,5 @@ Salary is hypothesized to depend on educational qualification and occupation. To
 ### EDA and Principal Component Analysis: 
 
 The dataset Education - Post 12th Standard.csv contains information on various colleges. You are expected to do a Principal Component Analysis for this case study according to the instructions given. Explain the business implication of using the Principal Component Analysis for this case study.
+
 
