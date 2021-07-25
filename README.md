@@ -4,27 +4,86 @@
 
 1. __PGP in Data Science and Busniess Analytics - Great Lakes Institute of Management__
 
-[Project 4 - Data Mining](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%204%20-%20Data%20Mining)
+**[Project 1 - Python for Data Science](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%201%20-%20Uber%20Analysis%20-%20Project)**
+
+**Skills and Tools**
+
+Python Functions, Data Interpretation
+
+
+**Problem Statement**
+
+
+The project is based on the trips made by Uber drivers. Different aspects of the trip are analyzed by using different functions in Python.
+
+---
+**[Project 2 - Statistical & Probabilistic Analysis of Store Sales, University Survey, & Manufacturing data](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%202%20%26%203%20-%20Inferential%20and%20Advance%20Statistics)**
+
+**Skills and Tools**
+
+Descriptive Statistics, Probability & Probability Distributions, Estimation, Hypothesis Testing
+
+
+[Link to report](https://github.com/VKarelia/Projects_and_CaseStudies/blob/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%202%20%26%203%20-%20Inferential%20and%20Advance%20Statistics/Statistical%20Methods%20for%20Decision%20Making__Business%20Report.pdf)
+
+
+**Problem Statement**
+
+
+The project involved drawing inferences from 3 case studies, namely - Wholesale Customer Data (Store Sales), University Survey Data & Manufacturing Shingles Data. The concepts of various measures of Descriptive Statistics, Probability and Probability Distributions and various measures of Estimation & Hypothesis Testing are used to analyse these case studies.
+
+---
+
+**[Project 3 - Advance Statistics](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%202%20%26%203%20-%20Inferential%20and%20Advance%20Statistics)**
+
+**Skills and Tools**
+
+ANOVA - one-way & two-way, EDA and Principal Component Analysis
+
+
+[Link to report](https://github.com/VKarelia/Projects_and_CaseStudies/blob/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%202%20%26%203%20-%20Inferential%20and%20Advance%20Statistics/Advance%20Statistics__Business%20Report.pdf)
+
+
+**Problem Statement**
+
+
+Salary is hypothesized to depend on educational qualification and occupation. To understand the dependency, the salaries of 40 individuals [SalaryData.csv] are collected and each person’s educational qualification and occupation are noted. The dataset Education - Post 12th Standard.csv contains information on various colleges.
+
+---
+
+**[Project 4 - Data Mining](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%204%20-%20Data%20Mining)**
+
+
+**Skills and Tools**
+
+Clustering, CART, Random Forest, Artificial Neural Networks
 
 [Link to report](https://github.com/VKarelia/Projects_and_CaseStudies/blob/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%204%20-%20Data%20Mining/Business%20Report.pdf)
 
-_Problem 1: Clustering_
-A leading bank wants to develop a customer segmentation to give promotional offers to its customers.They collected a sample that summarizes the activities of users during the past few months. You aregiven the task to identify the segments based on credit card usage
+**Problem Statement**
 
-_Problem 2: CART-RF-ANN_
-An Insurance firm providing tour insurance is facing higher claim frequency. The management decidesto collect data from the past few years. You are assigned the task to make a model which predicts theclaim status and provide recommendations to management. Use CART, RF & ANN and compare themodels' performances in train and test sets.
+The project involved drawing inferences from 2 case studies, namely - Bank Marketing & Insurance. The concepts of Clustering, CART, Random Forest, Artificial Neural Network are used to draw inferences from these case studies. Various performance metrics have been used to validate the performance of predictions on Test & Train sets.
 
-[Tokyo 2020 Medals Prediction](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Tokyo%202020%20Medals%20Predictions)
+---
+
+**[Tokyo 2021 Medals Prediction](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Tokyo%202020%20Medals%20Predictions)**
+
+**Skills and Tools**
+
+Web Scrapping, Linear Regression, Ridge and Lasso Regression, Stochastic Gradient Descent 
 
 [Link to report](https://medium.com/@kareliavaishnavi/tokyo-2021-olympics-medals-predictions-aceae04704f0)
 
+**Problem Statement**
 
 This case study is mainly focused on predicting the medals for Tokyo 2021 Olympics based on the factors affecting the country's performance in the Olympics. It can be argued that the country’s outcome in the Olympic games depends upon economic, demographic, and socio-economic factors such as GDP per capita, Population, Human Development Index(HDI), past performance of the country i.e. medals won in past Olympic games and whether the country hosting an Olympics event?
 
 
+---
+
 2. __IBM Data Science Professional Certificate__
             
-[Segmenting and Clustering Neighborhoods in Toronto](https://github.com/VKarelia/Capstone-Projects/tree/main/IBM%20Data%20Science%20Professional%20Certificate/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto)
+### [Segmenting and Clustering Neighborhoods in Toronto](https://github.com/VKarelia/Capstone-Projects/tree/main/IBM%20Data%20Science%20Professional%20Certificate/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto)
         
 [Link to report](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/109f3d8d-7c68-46e5-8c53-2b68cbd95929/view?access_token=a5c63daf1528f0e99538da0b07cc2a1fe143ad097181f4e8d39a873506b5b829)
         
@@ -33,7 +92,7 @@ Later I convert addresses into their equivalent latitude and longitude values ba
 used the explore function to get the most common venue categories in each neighborhood, and then use this feature to group the neighborhoods into clusters. I used the k-means clustering algorithm to complete this task. 
 Finally, to visualize the neighborhoods in Toronto City and their emerging clusters I used the Folium library to map the city along with the clusters.
     
-[The Battle of Neighborhoods](https://github.com/VKarelia/Capstone-Projects/tree/main/IBM%20Data%20Science%20Professional%20Certificate/The%20Battle%20of%20Neighborhoods)
+### [The Battle of Neighborhoods](https://github.com/VKarelia/Capstone-Projects/tree/main/IBM%20Data%20Science%20Professional%20Certificate/The%20Battle%20of%20Neighborhoods)
 
 [Link to report](https://github.com/VKarelia/Projects_and_CaseStudies/blob/main/IBM%20Data%20Science%20Professional%20Certificate/The%20Battle%20of%20Neighborhoods/Battle%20of%20Neighborhoods%20-%20Report.pdf)
 
