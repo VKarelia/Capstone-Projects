@@ -65,6 +65,21 @@ Clustering, CART, Random Forest, Artificial Neural Networks
 The project involved drawing inferences from 2 case studies, namely - Bank Marketing & Insurance. The concepts of Clustering, CART, Random Forest, Artificial Neural Network are used to draw inferences from these case studies. Various performance metrics have been used to validate the performance of predictions on Test & Train sets.
 
 ---
+**[Project 5 - Predictive Modeling](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%205%20-%20Predictive%20Modeling)**
+
+**Skills and Tools**
+
+Linear Regression, Logistic Regression, Linear discriminant Analysis
+
+[Link to report](https://github.com/VKarelia/Projects_and_CaseStudies/blob/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Project%205%20-%20Predictive%20Modeling/Project%205%20-%20Business%20Report.pdf)
+
+**Problem Statement**
+
+**Gems & Holiday Package Prediction**
+
+This project is based on 2 cases studies : Gems Price Prediction and Holiday Package prediction. In the first case study, concepts of linear regression are tested and it is expected from the learner to predict the price of gems based on multiple variables to help company maximize profits. In the second case, concepts of logistic regression and linear discriminant analysis are tested. One has to predict if the customer will purchase the holiday package to target the relevant customer base.
+
+---
 
 **[Tokyo 2021 Medals Prediction](https://github.com/VKarelia/Projects_and_CaseStudies/tree/main/PGP_DSBA%20Great%20Lakes%20Institute%20of%20Management/Tokyo%202020%20Medals%20Predictions)**
 
